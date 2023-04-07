@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Tmap.AR_capstone"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00020000" />
+19-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:18:3-52
+19-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:18:17-49
+20
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:19:3-65
+21-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:19:20-62
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:20:3-77
+22-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:20:20-74
+23
+24    <uses-feature
+24-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:3-89
+25        android:name="android.hardware.location.gps"
+25-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:17-61
+26        android:required="false" />
+26-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:62-86
+27    <uses-feature
+27-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:3-85
+28        android:name="android.hardware.location"
+28-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:17-57
+29        android:required="false" />
+29-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:58-82
+30    <uses-feature
+30-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:3-88
+31        android:name="android.hardware.touchscreen"
+31-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:17-60
+32        android:required="false" />
+32-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:61-85
+33    <uses-feature
+33-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:3-99
+34        android:name="android.hardware.touchscreen.multitouch"
+34-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:17-71
+35        android:required="false" />
+35-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:72-96
+36    <uses-feature
+36-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:3-108
+37        android:name="android.hardware.touchscreen.multitouch.distinct"
+37-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:17-80
+38        android:required="false" />
+38-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:81-105
+39
+40    <uses-permission android:name="android.permission.CAMERA" />
+40-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:26:3-63
+40-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:26:20-60
+41
+42    <uses-feature
+42-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:3-85
+43        android:name="android.hardware.camera.ar"
+43-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:17-58
+44        android:required="true" />
+44-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:59-82
+45    <uses-feature
+45-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:3-83
+46        android:name="com.google.ar.core.depth"
+46-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:17-56
+47        android:required="true" />
+47-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:57-80
+48
+49    <queries>
+49-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:29:5-31:15
+50        <package android:name="com.google.ar.core" />
+50-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:30:9-54
+50-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:30:18-51
+51    </queries>
+52
+53    <application
+53-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:4:3-17:17
+54        android:debuggable="true"
+55        android:extractNativeLibs="true"
+55-->[:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:18-50
+56        android:testOnly="true" >
+57        <activity
+57-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:5-9:16
+58            android:name="com.unity3d.player.UnityPlayerActivity"
+58-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:15-68
+59            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+59-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:204-385
+60            android:exported="true"
+60-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:69-92
+61            android:hardwareAccelerated="false"
+61-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:421-456
+62            android:launchMode="singleTask"
+62-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:172-203
+63            android:resizeableActivity="false"
+63-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:386-420
+64            android:screenOrientation="portrait"
+64-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:135-171
+65            android:theme="@style/UnityThemeSelector" >
+65-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:93-134
+66            <meta-data
+66-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:7-82
+67                android:name="unityplayer.UnityActivity"
+67-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:18-58
+68                android:value="true" />
+68-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:59-79
+69            <meta-data
+69-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:7-78
+70                android:name="android.notch_support"
+70-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:18-54
+71                android:value="true" />
+71-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:55-75
+72        </activity>
+73
+74        <meta-data
+74-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:5-69
+75            android:name="unity.splash-mode"
+75-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:16-48
+76            android:value="0" />
+76-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:49-66
+77        <meta-data
+77-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:5-74
+78            android:name="unity.splash-enable"
+78-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:16-50
+79            android:value="True" />
+79-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:51-71
+80        <meta-data
+80-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:5-78
+81            android:name="unity.launch-fullscreen"
+81-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:16-54
+82            android:value="True" />
+82-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:55-75
+83        <meta-data
+83-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:5-84
+84            android:name="unity.allow-resizable-window"
+84-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:16-59
+85            android:value="False" />
+85-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:60-81
+86        <meta-data
+86-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:5-81
+87            android:name="notch.config"
+87-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:16-43
+88            android:value="portrait|landscape" />
+88-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:44-78
+89        <meta-data
+89-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:5-88
+90            android:name="unityplayer.SkipPermissionsDialog"
+90-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:16-64
+91            android:value="true" />
+91-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:65-85
+92        <meta-data
+92-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:5-77
+93            android:name="com.google.ar.core"
+93-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:16-49
+94            android:value="required" />
+94-->C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:50-74
+95        <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+96        <meta-data
+96-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:36:9-38:41
+97            android:name="com.google.ar.core.min_apk_version"
+97-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:37:13-62
+98            android:value="210910000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+98-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:38:13-38
+99        <activity
+99-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:40:9-46:80
+100            android:name="com.google.ar.core.InstallActivity"
+100-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:41:13-62
+101            android:configChanges="keyboardHidden|orientation|screenSize"
+101-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:42:13-74
+102            android:excludeFromRecents="true"
+102-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:43:13-46
+103            android:exported="false"
+103-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:44:13-37
+104            android:launchMode="singleTop"
+104-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:45:13-43
+105            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+105-->[:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:46:13-77
+106    </application>
+107
+108</manifest>

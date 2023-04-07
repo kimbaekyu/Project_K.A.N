@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".search">
+
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/start_search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:iconifiedByDefault="false"
+        app:queryHint="출발지 입력">
+
+
+    </androidx.appcompat.widget.SearchView>
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/end_search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:queryHint="도착지 입력"
+        
+        app:iconifiedByDefault="false"/>
+
+    <ListView
+        android:id="@+id/building_listView"
+        android:layout_width="match_parent"
+        android:layout_height="410dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:gravity="center"
+        android:onClick="Click"
+        android:text="길찾기" />
+
+
+</LinearLayout>

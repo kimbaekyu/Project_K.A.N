@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-81:12
+MERGED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:17:1-49:12
+MERGED from [:ARPresto:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\edb0af2d436dc42a3db031ec704d6c36\transformed\ARPresto\AndroidManifest.xml:2:1-11:12
+MERGED from [:UnityARCore:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\8fa2abc3e5fb96c5b317ae53d8414989\transformed\UnityARCore\AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\5e066a4485dcc685051e0d7f13516387\transformed\unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:70-100
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:101-147
+	android:versionCode
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:2:148-188
+supports-screens
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:4:3-17:17
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:5-79:19
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:5-79:19
+MERGED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:33:5-47:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:18-50
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:5-9:16
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-56:20
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-56:20
+	android:screenOrientation
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:135-171
+	android:launchMode
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:172-203
+	android:hardwareAccelerated
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:421-456
+	android:exported
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:69-92
+	android:resizeableActivity
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:386-420
+	android:configChanges
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:204-385
+	android:theme
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:93-134
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:5:15-68
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:7-82
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-52:40
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-52:40
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:59-79
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:7:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:7-78
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-55:40
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:55-75
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:8:18-54
+meta-data#unity.splash-mode
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:5-69
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:9-60:33
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:49-66
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:5-74
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:9-63:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:51-71
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:11:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:5-78
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:9-66:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:9-66:36
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:12:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:5-84
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:9-69:37
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:9-69:37
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:60-81
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:13:16-59
+meta-data#notch.config
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:5-81
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:9-72:50
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:9-72:50
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:44-78
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:14:16-43
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:5-88
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:9-75:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:9-75:36
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:65-85
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:15:16-64
+meta-data#com.google.ar.core
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:5-77
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:9-78:40
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:9-78:40
+	android:value
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:50-74
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:16:16-49
+uses-feature#0x00020000
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:18:3-52
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-54
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-54
+	android:glEsVersion
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:18:17-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:19:3-65
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:19:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:20:3-77
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:20:20-74
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:3-89
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:62-86
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:21:17-61
+uses-feature#android.hardware.location
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:3-85
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:58-82
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:22:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:3-88
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:23:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:3-99
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:72-96
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:24:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:3-108
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:81-105
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:25:17-80
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:26:3-63
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:5-65
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:5-65
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:26:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:3-85
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:5-35:35
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:5-35:35
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:59-82
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:27:17-58
+uses-feature#com.google.ar.core.depth
+ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:3-83
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:5-38:35
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:5-38:35
+	android:required
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:57-80
+	android:name
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml:28:17-56
+uses-sdk
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:ARPresto:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\edb0af2d436dc42a3db031ec704d6c36\transformed\ARPresto\AndroidManifest.xml:7:5-9:41
+MERGED from [:ARPresto:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\edb0af2d436dc42a3db031ec704d6c36\transformed\ARPresto\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\8fa2abc3e5fb96c5b317ae53d8414989\transformed\UnityARCore\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\8fa2abc3e5fb96c5b317ae53d8414989\transformed\UnityARCore\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityandroidpermissions:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\5e066a4485dcc685051e0d7f13516387\transformed\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\5e066a4485dcc685051e0d7f13516387\transformed\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\AndroidManifest.xml
+queries
+ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\AndroidManifest.xml:41:13-62

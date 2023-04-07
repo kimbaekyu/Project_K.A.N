@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.Tmap.AR_capstone.launcher-mergeDebugResources-4:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS ROG\\AndroidStudioProjects\\tmap_last1\\launcher\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
+        }
+    ]
+}

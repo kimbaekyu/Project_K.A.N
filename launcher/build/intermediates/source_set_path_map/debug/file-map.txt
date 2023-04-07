@@ -1,0 +1,10 @@
+com.Tmap.AR_capstone.launcher-arcore_client-0 C:\Users\ASUS ROG\.gradle\caches\transforms-3\b60ba02325ad1179540f0c4dc82fbeae\transformed\arcore_client\res
+com.Tmap.AR_capstone.launcher-pngs-1 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\generated\res\pngs\debug
+com.Tmap.AR_capstone.launcher-resValues-2 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\generated\res\resValues\debug
+com.Tmap.AR_capstone.launcher-rs-3 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\generated\res\rs\debug
+com.Tmap.AR_capstone.launcher-packageDebugResources-4 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.Tmap.AR_capstone.launcher-packageDebugResources-5 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.Tmap.AR_capstone.launcher-merged_res-6 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\build\intermediates\merged_res\debug
+com.Tmap.AR_capstone.launcher-debug-7 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\debug\res
+com.Tmap.AR_capstone.launcher-main-8 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\launcher\src\main\res
+com.Tmap.AR_capstone.launcher-packaged_res-9 C:\Users\ASUS ROG\AndroidStudioProjects\tmap_last1\unityLibrary\build\intermediates\packaged_res\debug
